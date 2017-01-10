@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+}
+
+.wrap-playes
+{
+    display: inline-block;
+}
+
+.js-irs-0
+{
+    position: absolute;
+    bottom: 6px;
+    width: 100%;
+}
